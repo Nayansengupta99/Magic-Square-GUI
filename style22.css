@@ -1,0 +1,31 @@
+img{
+    width: 240px;
+    float: left;
+    margin: 0 0 10px -20px;
+
+}
+
+.description{
+    margin-top: 23px;
+    margin-left: 5%;
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+
+
+.low{
+  background-color: red;
+  width: 75px;
+  height: 35px;
+  margin-left: 25%;
+  margin-bottom: 35px;
+}
+
+
+
+.center{
+    text-align: center;
+     
+}
+
