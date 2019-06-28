@@ -1,0 +1,52 @@
+*
+{ 
+    margin: 0;
+    padding: 0;
+    
+}
+
+header
+{
+    
+    background-image:url(istockphoto-689752378-612x612.jpg);
+    height: 120vh;
+    background-size: cover;
+    background-position: centre;
+}
+    
+.image img
+{
+    width:200px;
+    height:auto;
+    float:left;
+    margin-top: 100px;
+    font-size:20px;
+
+}
+.description
+{
+    position:absolute;
+  width: 1200px;
+  margin: auto;
+ text-align:center;
+ font-size:25px;
+}
+.huha
+{
+    
+     text-align:center;
+    
+}
+.low{
+  background-color: lightgreen;
+  width: 75px;
+  height: 35px;
+  margin-left:1%;
+  margin-bottom: 35px;
+}
+
+.center
+{
+    text-align: center;
+     
+}
